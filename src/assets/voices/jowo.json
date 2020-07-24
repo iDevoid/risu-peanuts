@@ -1,0 +1,47 @@
+{
+    "category": [
+        {
+            "name": "moe",
+            "title": "Ati-ati kenek jantungan, iki MOE cok!",
+            "voices": [
+                {
+                    "name": "ohayou",
+                    "path": "ohayou.mp3",
+                    "title": "Sugeng Enjang, enjang~ heheh"
+                }
+            ]
+        },
+        {
+            "name": "meme",
+            "title": "Meme ra mungkin seimut iki!",
+            "voices": [
+                {
+                    "name": "popipo",
+                    "path": "popipo.mp3",
+                    "title": "popipopipo popipo"
+                },
+                {
+                    "name": "tututut",
+                    "path": "tututut.mp3",
+                    "title": "tuturutu tutu tu tu tu"
+                }
+            ]
+        },
+        {
+            "name": "squirrelnoises",
+            "title": "Swara Tupai, Peneliti sek neliti opoo tupai suka kacang",
+            "voices": [
+                {
+                    "name": "squirrelnoise",
+                    "path": "squirrel-noise.mp3",
+                    "title": "ummmaaaa ummmmmaaa"
+                },
+                {
+                    "name": "bbrrrrrrr",
+                    "path": "bbrrrrrrr.mp3",
+                    "title": "bbrrrrrrr bbbbbrrrrrrrrrr"
+                }
+            ]
+        }
+    ]
+}

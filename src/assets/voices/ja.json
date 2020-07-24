@@ -1,0 +1,47 @@
+{
+    "category": [
+        {
+            "name": "moe",
+            "title": "心臓発作に注意してください、萌えです!",
+            "voices": [
+                {
+                    "name": "ohayou",
+                    "path": "ohayou.mp3",
+                    "title": "おはよう、おはよう~ （笑）"
+                }
+            ]
+        },
+        {
+            "name": "ミーム",
+            "title": "ミームがこんなに可愛いわけがない!",
+            "voices": [
+                {
+                    "name": "popipo",
+                    "path": "popipo.mp3",
+                    "title": "ぽっぴっぽぴっぽぽぴっぽ"
+                },
+                {
+                    "name": "tututut",
+                    "path": "tututut.mp3",
+                    "title": "tuturutu tutu tu tu tu"
+                }
+            ]
+        },
+        {
+            "name": "squirrelnoises",
+            "title": "リスの声です, 科学者はリスがナッツを愛する理由を学んでいます",
+            "voices": [
+                {
+                    "name": "squirrelnoise",
+                    "path": "squirrel-noise.mp3",
+                    "title": "ummmaaaa ummmmmaaa"
+                },
+                {
+                    "name": "bbrrrrrrr",
+                    "path": "bbrrrrrrr.mp3",
+                    "title": "bbrrrrrrr bbbbbrrrrrrrrrr"
+                }
+            ]
+        }
+    ]
+}

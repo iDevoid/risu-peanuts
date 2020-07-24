@@ -1,0 +1,47 @@
+{
+    "category": [
+        {
+            "name": "moe",
+            "title": "Be carefull of heart attack, It's MOE!",
+            "voices": [
+                {
+                    "name": "ohayou",
+                    "path": "ohayou.mp3",
+                    "title": "Good Morning, Mornin~ heheh"
+                }
+            ]
+        },
+        {
+            "name": "meme",
+            "title": "The Meme cannot be this cute!",
+            "voices": [
+                {
+                    "name": "popipo",
+                    "path": "popipo.mp3",
+                    "title": "popipopipo popipo"
+                },
+                {
+                    "name": "tututut",
+                    "path": "tututut.mp3",
+                    "title": "tuturutu tutu tu tu tu"
+                }
+            ]
+        },
+        {
+            "name": "squirrelnoises",
+            "title": "Squirrel Noises, Scientists are learning why Squirrel loves peanuts",
+            "voices": [
+                {
+                    "name": "squirrelnoise",
+                    "path": "squirrel-noise.mp3",
+                    "title": "ummmaaaa ummmmmaaa"
+                },
+                {
+                    "name": "bbrrrrrrr",
+                    "path": "bbrrrrrrr.mp3",
+                    "title": "bbrrrrrrr bbbbbrrrrrrrrrr"
+                }
+            ]
+        }
+    ]
+}

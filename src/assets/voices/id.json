@@ -1,0 +1,47 @@
+{
+    "category": [
+        {
+            "name": "moe",
+            "title": "Hati-hati serangan jantung, ini MOE!",
+            "voices": [
+                {
+                    "name": "ohayou",
+                    "path": "ohayou.mp3",
+                    "title": "Met Pagi, pagi~ heheh"
+                }
+            ]
+        },
+        {
+            "name": "meme",
+            "title": "Meme gak mungkin seimut ini!",
+            "voices": [
+                {
+                    "name": "popipo",
+                    "path": "popipo.mp3",
+                    "title": "popipopipo popipo"
+                },
+                {
+                    "name": "tututut",
+                    "path": "tututut.mp3",
+                    "title": "tuturutu tutu tu tu tu"
+                }
+            ]
+        },
+        {
+            "name": "squirrelnoises",
+            "title": "Suara Tupai, Peneliti sedang mempelajari mengapa tupai suka kacang",
+            "voices": [
+                {
+                    "name": "squirrelnoise",
+                    "path": "squirrel-noise.mp3",
+                    "title": "ummmaaaa ummmmmaaa"
+                },
+                {
+                    "name": "bbrrrrrrr",
+                    "path": "bbrrrrrrr.mp3",
+                    "title": "bbrrrrrrr bbbbbrrrrrrrrrr"
+                }
+            ]
+        }
+    ]
+}
