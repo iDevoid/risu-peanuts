@@ -1,0 +1,47 @@
+{
+    "category": [
+        {
+            "name": "moe",
+            "title": "心脏病警告，萌音注意！！！",
+            "voices": [
+                {
+                    "name": "ohayou",
+                    "path": "ohayou.mp3",
+                    "title": "早上好，早上好~waaaaaa"
+                }
+            ]
+        },
+        {
+            "name": "meme",
+            "title": "我的松鼠不可能这么可爱！",
+            "voices": [
+                {
+                    "name": "popipo",
+                    "path": "popipo.mp3",
+                    "title": "popipopipo popipo"
+                },
+                {
+                    "name": "tututut",
+                    "path": "tututut.mp3",
+                    "title": "tuturutu tutu tu tu tu"
+                }
+            ]
+        },
+        {
+            "name": "squirrelnoises",
+            "title": "是松鼠的声音，科学家们正在了解松鼠为什么喜欢花生",
+            "voices": [
+                {
+                    "name": "squirrelnoise",
+                    "path": "squirrel-noise.mp3",
+                    "title": "ummmaaaa ummmmmaaa"
+                },
+                {
+                    "name": "bbrrrrrrr",
+                    "path": "bbrrrrrrr.mp3",
+                    "title": "bbrrrrrrr bbbbbrrrrrrrrrr"
+                }
+            ]
+        }
+    ]
+}
