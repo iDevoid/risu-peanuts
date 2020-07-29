@@ -35,6 +35,7 @@ export default {
         { code: "jowo", name: "Boso Jowo" },
         { code: "ja", name: "日本語" },
         { code: "en", name: "English" },
+        { code: "zh", name: "简体中文" }
       ],
     }
   },
