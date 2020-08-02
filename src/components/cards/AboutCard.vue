@@ -1,6 +1,6 @@
 <template>
     <div>
-        <v-col cols="12" class="float-left">
+        <v-col cols="12">
             <v-card class="pa-md-2 mx-lg-auto">
                 <v-card-title>
                     {{ $t('about-title') }}
