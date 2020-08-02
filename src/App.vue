@@ -31,10 +31,24 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
   .main-view {
     height: 100%;
     padding: 15px;
     background-color: #FCE4EC;
+  }
+  .v-buttons {
+      text-transform: unset;
+      margin: 5px 0;
+      white-space: normal;
+      min-height: 36px;
+      height: auto!important;
+  }
+  @media only screen and (max-width: 992px) {
+      .v-buttons {
+          text-transform: unset;
+          padding: 5px;
+          width: 100%;
+      }
   }
 </style>

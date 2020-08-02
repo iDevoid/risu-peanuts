@@ -4,17 +4,20 @@
             <v-card class="pa-md-2 mx-lg-auto">
                 <v-card-title class="headline" v-text="title"></v-card-title>
                 <v-card-actions class="d-block">
-                    <v-btn 
-                        v-for="(link, i) in links" 
-                        :key="i"  
-                        class="voice-button subtitle-1" 
-                        :color="link.color" 
-                        dark 
-                        :href="link.url"
-                        target="_blank"
+                    <div 
+                        v-for="link in links" 
+                        :key="link.name"
+                        class="pa-md-2 mx-lg-auto d-inline"
                     >
-                        {{ link.title }}
-                    </v-btn>
+                        <v-btn 
+                            class="v-buttons subtitle-1" 
+                            :color="link.color" 
+                            dark 
+                            :href="link.url"
+                            target="_blank"
+                            v-text="link.title"
+                        ></v-btn>
+                    </div>
                 </v-card-actions>
             </v-card>
         </v-col>
