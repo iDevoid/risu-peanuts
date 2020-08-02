@@ -12,6 +12,17 @@
             ]
         },
         {
+            "name": "actadult",
+            "title": "Emak e Tupai koyok ngene iki",
+            "voices": [
+                {
+                    "name": "araara",
+                    "path": "araara-gb.mp3",
+                    "title": "Ara ara~ wkwkwk"
+                }
+            ]
+        },
+        {
             "name": "meme",
             "title": "Meme ra mungkin seimut iki!",
             "voices": [

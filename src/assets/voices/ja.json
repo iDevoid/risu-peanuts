@@ -12,6 +12,17 @@
             ]
         },
         {
+            "name": "actadult",
+            "title": "大人のリスママ",
+            "voices": [
+                {
+                    "name": "araara",
+                    "path": "araara-gb.mp3",
+                    "title": "あらあら~ （笑）"
+                }
+            ]
+        },
+        {
             "name": "ミーム",
             "title": "ミームがこんなに可愛いわけがない!",
             "voices": [

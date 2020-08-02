@@ -12,6 +12,17 @@
             ]
         },
         {
+            "name": "actadult",
+            "title": "成年松鼠妈妈像",
+            "voices": [
+                {
+                    "name": "araara",
+                    "path": "araara-gb.mp3",
+                    "title": "Ara ara~ lol"
+                }
+            ]
+        },
+        {
             "name": "meme",
             "title": "我的松鼠不可能这么可爱！",
             "voices": [

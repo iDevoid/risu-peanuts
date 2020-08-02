@@ -12,6 +12,17 @@
             ]
         },
         {
+            "name": "actadult",
+            "title": "Tupai Dewasa Mama seperti ini nih",
+            "voices": [
+                {
+                    "name": "araara",
+                    "path": "araara-gb.mp3",
+                    "title": "Ara ara~ wkwkwk"
+                }
+            ]
+        },
+        {
             "name": "meme",
             "title": "Meme gak mungkin seimut ini!",
             "voices": [

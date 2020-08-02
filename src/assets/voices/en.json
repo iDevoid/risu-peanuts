@@ -12,6 +12,17 @@
             ]
         },
         {
+            "name": "actadult",
+            "title": "Adult Squirrel Mama Be like",
+            "voices": [
+                {
+                    "name": "araara",
+                    "path": "araara-gb.mp3",
+                    "title": "Ara ara~ lol"
+                }
+            ]
+        },
+        {
             "name": "meme",
             "title": "The Meme cannot be this cute!",
             "voices": [
