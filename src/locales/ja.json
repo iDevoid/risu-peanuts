@@ -5,6 +5,7 @@
     "about-subtitle": "<a target='_blank' href='https://github.com/iDevoid/risu-peanuts'>https://github.com/iDevoid/risu-peanuts</a>",
     "about-description": "これは、<a target='_blank' href='https://shoma.id'>iDevoid</a>がインドネシアのVTuber（仮想YouTuber）をサポートし、その成功を期待して作成および管理する個人的なプロジェクトです。 言語とサイト自体を改善することを誰でも歓迎します。<br />貢献したいですか？ <a href='https://forms.gle/oV8B6dUiBF48TChB6' target='_blank'>ここに提出してください！ （Googleフォーム）</a>",
     "voice-button": "ボイスボタン",
+    "album": "画像アルバム",
     "youtube": "YouTube",
     "twitter": "ツイッター",
     "support": "応援",
@@ -14,5 +15,15 @@
     "moona": "ムーナ・ホシノヴァの軌道",
     "contributors": "寄稿者",
     "contributions": "貢献",
-    "voice-clip": "ボイスクリップ"
+    "voice-clip": "ボイスクリップ",
+    "new-image": "新しい画像をアップロード",
+    "upload-album" : "リスアルバムに新しい画像をアップロード",
+    "upload-title": "タイトル",
+    "upload-nickname": "ニックネーム",
+    "upload-desc": "短いコンテンツ",
+    "upload-support": "Imgurによるイメージアルバム",
+    "upload-close": "閉じる",
+    "upload-submit": "アップロード",
+    "upload-wait": "画像がアルバムに表示されるまでお待ちください。二重アップロードまたはスパム送信しないでください",
+    "upload-by": "アップロード者"
 }

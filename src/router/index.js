@@ -19,6 +19,11 @@ Vue.use(VueRouter)
     path: '/links',
     name: 'Links',
     component: () => import('../views/Links.vue')
+  },
+  {
+    path: '/album',
+    name: 'Album',
+    component: () => import('../views/Album.vue')
   }
 ]
 

@@ -5,6 +5,7 @@
     "about-subtitle": "<a target='_blank' href='https://github.com/iDevoid/risu-peanuts'>https://github.com/iDevoid/risu-peanuts</a>",
     "about-description": "Iki proyek pribadi sing digawe karo dikelolah <a target='_blank' href='https://shoma.id'>iDevoid</a> gae Dhukung VTuber (Virtual YouTuber) Indonesia, gae sukses e dee karo liyane. Sopoae isa mbenakno boso karo situs iki.<br />kapene kontribusi? <a href='https://forms.gle/oV8B6dUiBF48TChB6' target='_blank'>kirimen nang kene! (Google form)</a>",
     "voice-button": "Tombol Swara",
+    "album": "Album Gambar",
     "youtube": "YouTube",
     "twitter": "Twitter",
     "support": "Dhukung ono Risu",
@@ -14,5 +15,15 @@
     "moona": "Orbite Moona Hoshinova",
     "contributors": "Kontributor",
     "contributions": "Kontribusi",
-    "voice-clip": "Klip Swara"
+    "voice-clip": "Klip Swara",
+    "new-image": "Unggah Gambar Anyar",
+    "upload-album" : "Unggah Gambar Anyar ning Albume Risu",
+    "upload-title": "Judul",
+    "upload-nickname": "Nickname kowe",
+    "upload-desc": "Konten Singkat",
+    "upload-support": "Gambar Album teko Imgur",
+    "upload-close": "Tutup",
+    "upload-submit": "Unggah",
+    "upload-wait": "Mohon ditunggu hingga gambar muncul di album, jangan upload ulang atau spam",
+    "upload-by": "Diunggah oleh"
 }

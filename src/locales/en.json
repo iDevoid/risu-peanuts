@@ -5,6 +5,7 @@
   "about-subtitle": "<a target='_blank' href='https://github.com/iDevoid/risu-peanuts'>https://github.com/iDevoid/risu-peanuts</a>",
   "about-description": "This is a personal project made and maintained by <a target='_blank' href='https://shoma.id'>iDevoid</a> to support Indonesian VTuber (Virtual YouTuber), hoping for their success. Anyone is welcomed to improve the language and the site itself.<br />Want to contribute? <a href='https://forms.gle/oV8B6dUiBF48TChB6' target='_blank'>submit it here! (Google form)</a>",
   "voice-button": "Voice Button",
+  "album": "Image Album",
   "youtube": "YouTube",
   "twitter": "Twitter",
   "support": "Support Risu",
@@ -14,5 +15,15 @@
   "moona": "Moona Hoshinova's Orbit",
   "contributors": "Contributors",
   "contributions": "Contribution(s)",
-  "voice-clip": "Voice Clip"
+  "voice-clip": "Voice Clip",
+  "new-image": "Upload New Image",
+  "upload-album" : "Upload New Image to Risu Album",
+  "upload-title": "Title",
+  "upload-nickname": "Your Nickname",
+  "upload-desc": "Short Content",
+  "upload-support": "Image Album by Imgur",
+  "upload-close": "Close",
+  "upload-submit": "Upload",
+  "upload-wait": "Please wait until the image is shown on album, don't double upload or spam it",
+  "upload-by": "Uploaded By"
 }

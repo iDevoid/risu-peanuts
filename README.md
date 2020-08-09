@@ -12,6 +12,10 @@ The source code of [ayundarisu.moe](https://ayundarisu.moe) webpage, this is fan
 - [vue-cookie](https://github.com/alfhen/vue-cookie)
 - [vue-masonry-css](https://github.com/paulcollett/vue-masonry-css)
 - [vue-cli-plugin-pwa](https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-pwa)
+- [axios](https://github.com/axios/axios)
+
+## 3rd Party Support
+- [imgur](https://apidocs.imgur.com)
 
 ## Current Language Supports:
 - English

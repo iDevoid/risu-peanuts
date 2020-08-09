@@ -76,6 +76,7 @@ export default {
                 // if you use link (:to) for external url, it will be like http://localhost:8080/https://twitter.com/moonahoshinova
                 // don't worry the vue itself will use the defined one without giving an error
                 { icon: 'mdi-surround-sound', text: this.$root.$t('voice-button'), link: '/', color: 'purple darken-1' },
+                { icon: 'mdi-image-album', text: this.$root.$t('album'), link: '/album', color: 'orange lighten-1' },
                 { 
                     icon: 'mdi-youtube', 
                     text: this.$root.$t('youtube'), 

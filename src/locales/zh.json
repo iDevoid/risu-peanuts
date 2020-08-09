@@ -5,6 +5,7 @@
     "about-subtitle": "<a target='_blank' href='https://github.com/iDevoid/risu-peanuts'>https://github.com/iDevoid/risu-peanuts</a>",
     "about-description": "这是 <a target='_blank' href='https://shoma.id'>iDevoid</a> 为支持印尼Vtuber（Virtual YouTuber）而制作并维护的个人项目，希望她们能够成功，欢迎任何人改进语言翻译和网站本身。<br />想提交她们的音声？ <a href='https://forms.gle/oV8B6dUiBF48TChB6' target='_blank'>请点击此处！(Google form)</a>",
     "voice-button": "音声按钮",
+    "album": "影集",
     "youtube": "YouTube",
     "twitter": "Twitter",
     "support": "为Risu应援",
@@ -14,5 +15,15 @@
     "moona": "Moona Hoshinova的轨道",
     "contributors": "贡献者",
     "contributions": "贡献",
-    "voice-clip": "语音夹"
+    "voice-clip": "语音夹",
+    "new-image": "上传新图片",
+    "upload-album" : "将新图像上传到Risu相册",
+    "upload-title": "标题",
+    "upload-nickname": "您的昵称",
+    "upload-desc": "简短内容",
+    "upload-support": "Imgur图片集",
+    "upload-close": "关",
+    "upload-submit": "上载",
+    "upload-wait": "请等到图片显示在相册上后，再进行两次上传或发送垃圾邮件",
+    "upload-by": "上传者"
 }
