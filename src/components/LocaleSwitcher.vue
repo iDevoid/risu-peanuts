@@ -43,7 +43,7 @@ export default {
     changeLang(e) {
       this.$i18n.locale = e;
       this.$cookie.set('lang', e, 30);
-      this.$router.app.$emit('lang-changed', e);
+      this.$root.$emit('langChanged', e);
     }
   }
 }

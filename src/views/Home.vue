@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-main v-bind="updateVoices(locale)">
+    <v-main>
       <masonry
       :cols="{default: 2, 1000: 2, 700: 1, 400: 1}"
       :gutter="10"
@@ -24,14 +24,15 @@ export default {
   components: {
     AudioCard,
   },
-  computed: {
-    locale() {
-      return this.$i18n.locale
-    }
+  created() {
+    this.updateVoices(this.$cookie.get('lang') || this.$i18n.locale);
+  },
+  mounted() {
+    this.$root.$on('langChanged', lang => this.updateVoices(lang));
   },
   methods: {
-    updateVoices: function(lang) {
-      let voicelist = () => import('../assets/voices/'+lang+'.json');
+    updateVoices(lang) {
+      const voicelist = () => import('../assets/voices/'+lang+'.json');
       voicelist().then((items) => {
         this.voices = items.default.category;
       });
