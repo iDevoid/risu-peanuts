@@ -19,7 +19,7 @@ export default {
   },
   computed: {
     contributors() {
-      var vc = this.$root.$t("voice-clip");
+      var vc = " " + this.$root.$t("voice-clip");
       return [
         {
           name: "zangxx66",
@@ -32,6 +32,10 @@ export default {
         {
           name: "Green Bird",
           desc: "Ara ara" + vc
+        },
+        {
+          name: "Crygem",
+          desc: "Yanderisu Mode 1" + vc + "; Yanderisu Mode 2" + vc + "; Would you like a dinner first? A bath? Or...Me?" + vc + "; Dame da ne, Dame yo dame na no yo~" + vc
         }
       ]
     }

@@ -19,6 +19,21 @@
                     "name": "araara",
                     "path": "araara-gb.mp3",
                     "title": "あらあら~ （笑）"
+                },
+                {
+                    "name": "yanderisu1",
+                    "path": "Yanderisu 1 - Crygem.mp3",
+                    "title": "ヤンデリスモード1"
+                },
+                {
+                    "name": "yanderisu2",
+                    "path": "Yanderisu 2 - Crygem.mp3",
+                    "title": "ヤンデリスモード2"
+                },
+                {
+                    "name": "waifurisu",
+                    "path": "Gohan ni suru... - Crygem.mp3",
+                    "title": "お帰りなさい! ご飯にする？お風呂にする?それとも、わ。た。し?"
                 }
             ]
         },
@@ -35,6 +50,11 @@
                     "name": "tututut",
                     "path": "tututut.mp3",
                     "title": "tuturutu tutu tu tu tu"
+                },
+                {
+                    "name": "damedane",
+                    "path": "Dame dane Risu - Crygem.mp3",
+                    "title": "だめだね だめよ だめなのよ。あんたが 好きで好きすぎて （馬鹿みたい）"
                 }
             ]
         },

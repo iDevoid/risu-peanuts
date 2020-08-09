@@ -19,6 +19,21 @@
                     "name": "araara",
                     "path": "araara-gb.mp3",
                     "title": "Ara ara~ wkwkwk"
+                },
+                {
+                    "name": "yanderisu1",
+                    "path": "Yanderisu 1 - Crygem.mp3",
+                    "title": "Yanderisu Mode 1"
+                },
+                {
+                    "name": "yanderisu2",
+                    "path": "Yanderisu 2 - Crygem.mp3",
+                    "title": "Yanderisu Mode 2"
+                },
+                {
+                    "name": "waifurisu",
+                    "path": "Gohan ni suru... - Crygem.mp3",
+                    "title": "Selamat datang kembali, Apakah Anda ingin makan malam? Mandi? Atau mungkin ... saya?"
                 }
             ]
         },
@@ -35,6 +50,11 @@
                     "name": "tututut",
                     "path": "tututut.mp3",
                     "title": "tuturutu tutu tu tu tu"
+                },
+                {
+                    "name": "damedane",
+                    "path": "Dame dane Risu - Crygem.mp3",
+                    "title": "Ini tidak bagus. Tidak baik. Tidak bagus sama sekali. Aku mencintaimu, aku sangat mencintaimu. (Baka Mitai)"
                 }
             ]
         },

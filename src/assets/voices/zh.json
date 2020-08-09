@@ -19,6 +19,21 @@
                     "name": "araara",
                     "path": "araara-gb.mp3",
                     "title": "Ara ara~ lol"
+                },
+                {
+                    "name": "yanderisu1",
+                    "path": "Yanderisu 1 - Crygem.mp3",
+                    "title": "Yanderisu模式1"
+                },
+                {
+                    "name": "yanderisu2",
+                    "path": "Yanderisu 2 - Crygem.mp3",
+                    "title": "Yanderisu模式2"
+                },
+                {
+                    "name": "waifurisu",
+                    "path": "Gohan ni suru... - Crygem.mp3",
+                    "title": "欢迎回来，您想吃晚饭吗？ 洗澡吗 还是...我？"
                 }
             ]
         },
@@ -35,6 +50,11 @@
                     "name": "tututut",
                     "path": "tututut.mp3",
                     "title": "tuturutu tutu tu tu tu"
+                },
+                {
+                    "name": "damedane",
+                    "path": "Dame dane Risu - Crygem.mp3",
+                    "title": "不好 不好。 一点都不好。 我爱你，我太爱你了。(Baka Mitai)"
                 }
             ]
         },
